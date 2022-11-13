@@ -1,5 +1,5 @@
 
-# Art-ProgKids
+# Paint-ProgMine
 
 Утилита для конвертации рисунка в код для сервера ProgMine
 
